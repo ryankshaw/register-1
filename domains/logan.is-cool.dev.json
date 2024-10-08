@@ -1,0 +1,15 @@
+{
+    "description": "Logan's Projects",
+    "domain": "is-cool.dev",
+    "subdomain": "logan",
+
+    "owner": {
+        "email": "ryankshaw@gmail.com"
+    },
+
+    "record": {
+        "A": ["158.101.15.72"]
+    },
+
+    "proxied": false
+}
